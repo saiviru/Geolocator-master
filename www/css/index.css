@@ -14,6 +14,9 @@ ul li a{
     display: inline;
     border: 1px solid black;
     text-transform: uppercase;
+    position: relative;
+    left:80px;
+    
 
 }
 ul li a:hover{
@@ -33,4 +36,9 @@ h1{
 }
 ul{
     list-style: none;
+}
+//.non{
+    position:relative;
+    top: 183px;
+    left:-10px;
 }
